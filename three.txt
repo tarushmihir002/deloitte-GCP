@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Times of India
+=======
+Times of India
+>>>>>>> 222be23673b709c0329b4b71f7dbe9007a8bed1e
